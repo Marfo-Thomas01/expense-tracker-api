@@ -21,7 +21,7 @@ A RESTful API for tracking personal expenses with full CRUD operations, filterin
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/expense-tracker-api.git
+git clone https://github.com/Marfo-Thomas01/expense-tracker-api.git
 cd expense-tracker-api
 
 # Install dependencies
